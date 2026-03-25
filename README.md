@@ -1,2 +1,2 @@
 # Rune Blockchain
-The Hoodium | HOODIR Network - based on Cosmos-EVM
+The Hoodium | HDR Network - based on Cosmos-EVM
